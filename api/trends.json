@@ -1,12 +1,37 @@
 {
-  "generated_at": "2026-07-14T20:20:13.859554+08:00",
-  "total_titles_processed": 1387,
-  "failed_sources": [],
+  "generated_at": "2026-07-14T23:03:02.233936+08:00",
+  "total_titles_processed": 1556,
+  "failed_sources": [
+    "baidu"
+  ],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 60,
+      "match_count": 66,
       "titles": [
+        {
+          "title": "伊朗前总统内贾德被曝遭软禁，曾短暂现身哈梅内伊葬礼队伍",
+          "url": "https://news.ifeng.com/c/8ukhwi9IbW5",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时19分 ~ 23时03分]"
+        },
+        {
+          "title": "美国向全世界敲竹杠，伊朗外长嘲讽",
+          "url": "https://news.ifeng.com/c/8ukLcwiKckH",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时19分 ~ 23时03分]"
+        },
         {
           "title": "穆杰塔巴报复名单加剧对立，美以恐谋求颠覆伊朗现政权",
           "url": "https://news.ifeng.com/c/8uiovLcFI7X",
@@ -19,28 +44,6 @@
           "time_info": "[01时20分 ~ 07时02分]"
         },
         {
-          "title": "美国向全世界敲竹杠，伊朗外长嘲讽",
-          "url": "https://news.ifeng.com/c/8ukLcwiKckH",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时19分 ~ 20时20分]"
-        },
-        {
-          "title": "伊朗前总统内贾德被曝遭软禁，曾短暂现身哈梅内伊葬礼队伍",
-          "url": "https://news.ifeng.com/c/8ukhwi9IbW5",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时19分 ~ 20时20分]"
-        },
-        {
           "title": "美军首次使用海上无人艇打击伊朗，现场画面公布",
           "url": "https://news.ifeng.com/c/8ujiA6HPQR0",
           "source": "凤凰网",
@@ -50,6 +53,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时57分 ~ 13时39分]"
+        },
+        {
+          "title": "惊险！伊朗客机准备降落，沙特导弹砸向跑道，瞬间一片火海",
+          "url": "https://news.ifeng.com/c/8ul2v0dWeKd",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时01分 ~ 23时03分]"
         },
         {
           "title": "据伊通社（IRNA）：4枚导弹已击中伊朗南部港口城市科纳拉克（Konarak）附近地区，一架美国飞机正在科纳拉克上空飞行。",
@@ -124,7 +138,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时20分"
         },
@@ -289,6 +303,28 @@
         },
         {
           "title": "伊朗称美进入正式战争状态",
+          "url": "https://www.toutiao.com/trending/7662353080528145926/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时01分 ~ 23时03分]"
+        },
+        {
+          "title": "伊朗称美进入正式战争状态",
+          "url": "https://wallstreetcn.com/articles/3776923",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时01分 ~ 23时03分]"
+        },
+        {
+          "title": "伊朗称美进入正式战争状态",
           "url": "https://www.douyin.com/hot/2571461",
           "source": "抖音",
           "ranks": [
@@ -297,6 +333,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[20时19分 ~ 20时20分]"
+        },
+        {
+          "title": "55名被阿联酋拘留的伊朗渔民已获释",
+          "url": "https://www.toutiao.com/trending/7662372959964643378/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时01分 ~ 23时03分]"
+        },
+        {
+          "title": "伊朗前总统内贾德被软禁",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%89%8D%E6%80%BB%E7%BB%9F%E5%86%85%E8%B4%BE%E5%BE%B7%E8%A2%AB%E8%BD%AF%E7%A6%81%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时01分 ~ 23时03分]"
+        },
+        {
+          "title": "伊朗称美进入正式战争状态",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%A7%B0%E7%BE%8E%E8%BF%9B%E5%85%A5%E6%AD%A3%E5%BC%8F%E6%88%98%E4%BA%89%E7%8A%B6%E6%80%81",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "23时01分"
         },
         {
           "title": "据伊朗媒体Fars News：伊朗在格什姆岛以北海域救出了一艘与另一艘船只发生碰撞的散货船上的外籍船员。",
@@ -360,7 +429,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时20分"
         },
@@ -676,7 +745,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 50,
+      "match_count": 55,
       "titles": [
         {
           "title": "原油盘中暴涨10%！美军恢复对伊朗封锁，特朗普放话今晚明天“重击”、对海峡货运收两成费用",
@@ -688,8 +757,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时57分 ~ 20时20分]"
+          "appearance_count": 10,
+          "time_info": "[10时57分 ~ 23时03分]"
+        },
+        {
+          "title": "特朗普强硬重启对伊战事，共和党、白宫双双内讧",
+          "url": "https://news.ifeng.com/c/8ukTbU27CpD",
+          "source": "凤凰网",
+          "ranks": [
+            12,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时38分 ~ 23时03分]"
         },
         {
           "title": "特朗普宣称接管霍尔木兹海峡，伊朗警告战火将蔓延全区",
@@ -713,23 +795,12 @@
             16,
             12,
             10,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时20分 ~ 20时20分]"
-        },
-        {
-          "title": "特朗普强硬重启对伊战事，共和党、白宫双双内讧",
-          "url": "https://news.ifeng.com/c/8ukTbU27CpD",
-          "source": "凤凰网",
-          "ranks": [
-            12,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时38分 ~ 20时20分]"
+          "appearance_count": 15,
+          "time_info": "[01时20分 ~ 23时03分]"
         },
         {
           "title": "特朗普点名中东六国",
@@ -742,6 +813,20 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时57分 ~ 13时39分]"
+        },
+        {
+          "title": "一图世界｜特朗普威胁收20%过路费，霍尔木兹海峡为何仍是冲突焦点？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33580758",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            14,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时19分 ~ 23时03分]"
         },
         {
           "title": "特朗普威胁打击伊朗“镐山”地下核设施",
@@ -821,19 +906,6 @@
           "time_info": "05时04分"
         },
         {
-          "title": "一图世界｜特朗普威胁收20%过路费，霍尔木兹海峡为何仍是冲突焦点？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33580758",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            14,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时19分 ~ 20时20分]"
-        },
-        {
           "title": "美伊战火不停？特朗普已“知会”国会，但仍认为有望达成协议！",
           "url": "https://www.cls.cn/detail/2425302",
           "source": "财联社热门",
@@ -869,6 +941,17 @@
           "time_info": "[16时19分 ~ 18时52分]"
         },
         {
+          "title": "如何看特朗普在霍尔木兹收费",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%94%B6%E8%B4%B9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时01分 ~ 23时03分]"
+        },
+        {
           "title": "不到一个月鲁比奥被特朗普“打脸”",
           "url": "https://www.toutiao.com/trending/7661932781331660863/",
           "source": "今日头条",
@@ -878,6 +961,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[20时19分 ~ 20时20分]"
+        },
+        {
+          "title": "特朗普转变态度力挺乌克兰有何意图",
+          "url": "https://www.toutiao.com/trending/7662341237323599366/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时01分 ~ 23时03分]"
         },
         {
           "title": "据国会山报报道，美国总统特朗普回应周四黄金时段讲话是否会提前透露内容时表示：“这就是一场讲话，和我之前很多次讲话差不多。”",
@@ -911,6 +1005,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
+        },
+        {
+          "title": "美国最高法院法官Barrett：（特朗普政府）在国会山预算听证会上释放的威胁水平相当高。",
+          "url": "https://wallstreetcn.com/livenews/3133730",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时03分"
         },
         {
           "title": "白宫：特朗普签署一项公告，涉及对某些固定污染源给予监管救济。",
@@ -1122,6 +1227,17 @@
           "time_info": "05时04分"
         },
         {
+          "title": "美联储主席沃什：美联储作为独立的中央银行而感到荣幸。 美国最高法院围绕美联储的独立性回应了诸多疑问。 我在美联储的目标是消除（来自美国总统特朗普的）政治因素。 美联储对国会山也具有独立性。",
+          "url": "https://wallstreetcn.com/livenews/3133720",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时03分"
+        },
+        {
           "title": "美国总统特朗普：（关于伊朗）今晚和明天将对他们进行严厉打击。",
           "url": "https://flash.jin10.com/detail/20260714041014877800",
           "source": "金十数据",
@@ -1175,6 +1291,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
+        },
+        {
+          "title": "美国总统特朗普兜售与日本的贸易协议和投资交易。",
+          "url": "https://wallstreetcn.com/livenews/3133716",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时03分"
         },
         {
           "title": "特朗普预告周五黄金时段讲话，或表明战争再次加速",
@@ -1246,7 +1373,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 31,
+      "match_count": 32,
       "titles": [
         {
           "title": "地缘风暴叠加鹰派理事，美股指齐跌，半导体指数重挫5%，原油飙升10%，黄金大跌",
@@ -1258,8 +1385,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时57分 ~ 20时20分]"
+          "appearance_count": 10,
+          "time_info": "[10时57分 ~ 23时03分]"
         },
         {
           "title": "高盛、美银齐发卖出警报，对冲基金却重返科技股，美股仓位信号现分歧",
@@ -1321,13 +1448,24 @@
           "time_info": "[20时19分 ~ 20时20分]"
         },
         {
+          "title": "美国通胀降温，美股盘初涨跌互现，存储芯片股大涨，IBM跌26%，原油涨3%，黄金涨2%",
+          "url": "https://wallstreetcn.com/articles/3776859",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时01分 ~ 23时03分]"
+        },
+        {
           "title": "花旗集团第二季度营收为247.7亿美元，每股收益为3.15美元。 第二季度股票销售及交易收入23亿美元，预期为19亿美元。 第二季度FICC（固定收益、外汇及大宗商品）销售与交易收入为47.1亿美元，预期为45.6亿美元。 第二季度净利息收入为171.3亿美元，预期为160.1亿美元。 第二季度投资银行业务收入为15.5亿美元。 花旗集团预计2026年股票回购规模将高于2025年。 花旗美股盘前跌超1%。",
           "url": "https://wallstreetcn.com/livenews/3133646",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时20分"
         },
@@ -1394,7 +1532,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时20分"
         },
@@ -1416,7 +1554,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时20分"
         },
@@ -1438,7 +1576,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时20分"
         },
@@ -1493,7 +1631,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时20分"
         },
@@ -1515,7 +1653,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时20分"
         },
@@ -1610,11 +1748,12 @@
             15,
             10,
             8,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时57分 ~ 20时20分]"
+          "appearance_count": 10,
+          "time_info": "[10时57分 ~ 23时03分]"
         },
         {
           "title": "DeepSeek梁文锋成AI公司新首富",
@@ -1730,11 +1869,12 @@
           "ranks": [
             5,
             10,
-            4
+            4,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时19分 ~ 20时20分]"
+          "appearance_count": 6,
+          "time_info": "[16时19分 ~ 23时03分]"
         },
         {
           "title": "软银推出基于OpenAI技术的网络安全服务。",
@@ -1760,11 +1900,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时19分 ~ 20时20分]"
+          "appearance_count": 7,
+          "time_info": "[16时19分 ~ 23时03分]"
         }
       ]
     }
